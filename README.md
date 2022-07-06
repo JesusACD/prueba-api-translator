@@ -23,3 +23,7 @@ The server should be accessible on `http://localhost:5000/translate`
 Pass your text in the `tr` query: `http://localhost:5000/translate?tr=Hola`
 
 ## PRs are welcome!
+
+## Example
+
+`https://prueba-api-translator-production.up.railway.app/`
