@@ -1,8 +1,10 @@
 const express = require('express');
 const translate = require('@iamtraction/google-translate');
+const cors = require('cors');
 const config = require('./config.json');
 
 const app = express();
+app.use(cors());
 
 app.use(express.json({ extended: false }));
 
