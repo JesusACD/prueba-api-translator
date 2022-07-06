@@ -26,4 +26,4 @@ Pass your text in the `tr` query: `http://localhost:5000/translate?tr=Hola`
 
 ## Example
 
-`git clone https://github.com/TheNetJedi/express-google-translate-api.git`
+`https://prueba-api-translator-production.up.railway.app/`
