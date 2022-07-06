@@ -1,0 +1,6 @@
+{
+	"name": "Express Google Translate API",
+	"description": "Express wrapper for Google Translate API",
+	"repository": "https://github.com/JesusACD/prueba-api-translator.git",
+	"keywords": ["node", "express", "google", "translate", "api"]
+}
